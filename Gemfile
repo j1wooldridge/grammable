@@ -81,3 +81,5 @@ gem 'devise'
 gem 'carrierwave', '~> 2.0'
 gem "figaro"
 gem "fog-aws"
+
+gem 'rubocop', '~> 0.77.0', require: false
