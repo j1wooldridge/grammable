@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles. The goal was to build a app using html, css, javascript, Ruby, Ruby on Rails to highlight skills aquired as a full stack web developer.
 
-Things you may want to cover:
+Deployed Version
 
-* Ruby version
+Visit https://grammable-jacques-wooldridge.herokuapp.com/ to deploy the app.
 
-* System dependencies
+Screenshot Version
 
-* Configuration
+![Grammable App Screenshot](app/images/Grammable_image.png "Screenshot") 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Jacques Wooldridge.

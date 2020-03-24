@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.3'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem "puma", ">= 3.12.4"
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -68,8 +68,8 @@ end
 
 gem 'jquery-rails'
 
-gem 'popper_js', '~> 1.11.1'
-gem 'bootstrap', '4.0.0.alpha6'
+gem 'popper_js'
+gem "bootstrap", ">= 4.3.1"
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
@@ -83,3 +83,5 @@ gem "figaro"
 gem "fog-aws"
 
 gem 'rubocop', '~> 0.77.0', require: false
+
+gem "nokogiri", ">= 1.10.8"
